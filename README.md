@@ -1,4 +1,4 @@
-# <AI Platform PRD>
+# AI Platform PRD
 
 **Purpose:** (one sentence)
 
